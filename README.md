@@ -1,16 +1,41 @@
-## Hi there 👋
+# Salut!
 
-<!--
-**SircuMihai/SircuMihai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Despre mine
 
-Here are some ideas to get you started:
+Numele meu este **Sircu Mihai** și sunt student la **Universitatea de Stat din Republica Moldova**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Imaginea mea
+
+![Avatar](./images/avatar.png)
+
+## Interese
+
+- DevOps
+- Game Development
+- Security
+
+## Limbaje de programare
+
+### Cunosc
+- Pascal
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- Java
+- PostgreSQL
+
+### Învăț
+- PHP
+- MySQL
+
+### Doresc să învăț
+- C#
+- Rust
+
+## Contact
+
+- 📞 **Număr:** +37378843227
+- 📧 **Email:** mihailsircu5@gmail.com
